@@ -1,0 +1,25 @@
+{
+  "name": "mindful-journal",
+  "version": "1.0.0",
+  "description": "A secure, serene daily journaling application with AI-powered reflections.",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "echo 'This project runs in a browser environment with ES modules.'"
+  },
+  "keywords": [
+    "react",
+    "journal",
+    "ai",
+    "gemini",
+    "supabase"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "@google/genai": "^0.1.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "lucide-react": "^0.300.0"
+  }
+}
